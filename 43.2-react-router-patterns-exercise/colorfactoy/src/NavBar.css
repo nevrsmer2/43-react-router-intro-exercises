@@ -1,0 +1,17 @@
+.NavBar {
+    background-color: rgb(64, 149, 210);
+    text-align: center;
+}
+
+.NavBar a {
+    padding: 0.5em 0;
+    width: 10em;
+    display: inline-block;
+    color: rgb(255, 255, 255, .9);
+    text-decoration: none;
+}
+
+.NavBar a.active {
+    font-size: 1.2em;
+    color: white;
+}
